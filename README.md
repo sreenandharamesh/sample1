@@ -1,3 +1,3 @@
 # sample1
 
-https://github.com/sreenandharamesh/sample1.git
+ https://sreenandharamesh.github.io/sample1/
